@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200">
+<g transform="translate(86 163) rotate(0) scale(1.5)">
+  <path d="M-3.6 3 L-9 20 Q-6 23.5 -3 21.5 Q0 24.5 3 21.5 Q6 23.5 9 20 L3.6 3 Z" fill="#b27f31"/>
+  <path d="M-2.2 10 L-3.2 19.5 M2.2 10 L3.2 19.5" stroke="#96692a" stroke-width="1.1" stroke-linecap="round" fill="none"/>
+  <circle r="4.6" fill="#d9b062"/>
+</g><g transform="translate(154 163) rotate(0) scale(1.5)">
+  <path d="M-3.6 3 L-9 20 Q-6 23.5 -3 21.5 Q0 24.5 3 21.5 Q6 23.5 9 20 L3.6 3 Z" fill="#b27f31"/>
+  <path d="M-2.2 10 L-3.2 19.5 M2.2 10 L3.2 19.5" stroke="#96692a" stroke-width="1.1" stroke-linecap="round" fill="none"/>
+  <circle r="4.6" fill="#d9b062"/>
+</g>
+<g transform="translate(43 82) rotate(122) scale(1.4)">
+  <path d="M-3.6 3 L-9 20 Q-6 23.5 -3 21.5 Q0 24.5 3 21.5 Q6 23.5 9 20 L3.6 3 Z" fill="#b27f31"/>
+  <path d="M-2.2 10 L-3.2 19.5 M2.2 10 L3.2 19.5" stroke="#96692a" stroke-width="1.1" stroke-linecap="round" fill="none"/>
+  <circle r="4.6" fill="#d9b062"/>
+</g><g transform="translate(197 82) rotate(-122) scale(1.4)">
+  <path d="M-3.6 3 L-9 20 Q-6 23.5 -3 21.5 Q0 24.5 3 21.5 Q6 23.5 9 20 L3.6 3 Z" fill="#b27f31"/>
+  <path d="M-2.2 10 L-3.2 19.5 M2.2 10 L3.2 19.5" stroke="#96692a" stroke-width="1.1" stroke-linecap="round" fill="none"/>
+  <circle r="4.6" fill="#d9b062"/>
+</g>
+<path d="M54 76 Q120 60 186 76 Q204 80 201 99 Q208 126 199 150 Q197 164 180 164 Q120 171 60 164 Q43 164 41 150 Q32 126 39 99 Q36 80 54 76 Z" fill="#132537" stroke="#f6efe0" stroke-width="3" stroke-linejoin="round" paint-order="stroke"/>
+<clipPath id="ca"><path d="M54 76 Q120 60 186 76 Q204 80 201 99 Q208 126 199 150 Q197 164 180 164 Q120 171 60 164 Q43 164 41 150 Q32 126 39 99 Q36 80 54 76 Z"/></clipPath>
+<g clip-path="url(#ca)">
+  <path d="M30 150 Q120 176 210 150 L210 180 L30 180 Z" fill="#0b1826"/>
+  <path d="M51 96 Q58 77 98 71" stroke="#243a55" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M40 141 Q120 163 200 141" stroke="#d9b062" stroke-width="4" fill="none"/>
+</g>
+<rect x="90" y="94" width="10" height="20" rx="5" fill="#f6efe0"/>
+<rect x="140" y="94" width="10" height="20" rx="5" fill="#f6efe0"/>
+<path d="M112 125 Q120 132 128 125" stroke="#f6efe0" stroke-width="4" stroke-linecap="round" fill="none"/></svg>
